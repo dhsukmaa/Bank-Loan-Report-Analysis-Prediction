@@ -11,6 +11,7 @@ Before building the final dashboards, I designed a high-fidelity mockup to plan 
 > 🔗 **[View Figma Mockup](https://www.figma.com/design/Kvj4PV436srQCQcprUef5i/Mock-Up-Dashboard-Bank-Loan)**
 
 ### 💾 SQL Query Analysis
+> 🔗 **[Query Analysis](https://www.figma.com/design/Kvj4PV436srQCQcprUef5i/Mock-Up-Dashboard-Bank-Loan](https://drive.google.com/file/d/1s5ENPeVc1_4jiaVIb1ImIGbgDcJPykDa/view?usp=sharing)**
 I performed extensive data extraction and KPI calculation using SQL to ensure data integrity and accuracy. The analysis includes:
 * **Key Performance Indicators (KPIs):** Total applications, funded amounts, and payments received (MTD/QTD trends).
 * **Loan Categorization:** Segmenting "Good Loans" vs. "Bad Loans" based on repayment status.
